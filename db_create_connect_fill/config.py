@@ -1,5 +1,0 @@
-host = "127.0.0.1"
-user = "postgres"
-password = "120789"
-db_name = "postgres"
-port = "1207"
