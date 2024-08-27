@@ -1,0 +1,9 @@
+__pecache__
+*.pyc
+
+venv/
+.venv/
+env/
+.env/
+
+db_create_connect_fill/config.pyc
